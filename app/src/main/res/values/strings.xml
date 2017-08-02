@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WeatherCast</string>
+    <string name="title_activity_main">Weather Forecast</string>
+    <string name="editText_zipcode_hint">Enter ZipCode</string>
+    <string name="forecast_error">Error Occured</string>
+    <string name="zipcode_error">Please enter a valid zipcode</string>
+</resources>
